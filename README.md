@@ -3,6 +3,17 @@ Google Chat webhook sender
 
 # Usage
 
+requirements : httplib2
+to install it 
+```
+pip install httplib2
+```
+or
+```
+pip3 install httplib2
+```
+
+
 python3 main.py or python main.py
 
 Create a Webhook on your google chat
