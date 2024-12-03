@@ -14,11 +14,10 @@ pip3 install httplib2
 ```
 
 
-python3 main.py or python main.py
-
-Create a Webhook on your google chat
-Copy the link of that webhook and when the code ask for Webhook url paste it.
-Enter the message you want to send
+- python3 main.py or python main.py
+- Create a Webhook on your google chat
+- Copy the link of that webhook and when the code ask for Webhook url paste it.
+- Enter the message you want to send
 
 # Service Setup
 
